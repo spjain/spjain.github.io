@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship on Shubham Jain</title>
+    <link>https://spjain.github.io/tags/internship/</link>
+    <description>Recent content in Internship on Shubham Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Shubham Jain</copyright>
+    <lastBuildDate>Wed, 27 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/internship/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Scientist Intern - Quikr, India</title>
+      <link>https://spjain.github.io/project/quikr/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/quikr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Intern - Adoro, India</title>
+      <link>https://spjain.github.io/project/adoro/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/adoro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

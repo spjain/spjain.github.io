@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robocon on Shubham Jain</title>
+    <link>https://spjain.github.io/tags/robocon/</link>
+    <description>Recent content in Robocon on Shubham Jain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Shubham Jain</copyright>
+    <lastBuildDate>Sun, 27 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/robocon/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Green Energy Recharging the World</title>
+      <link>https://spjain.github.io/project/ecobot/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/ecobot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robominton</title>
+      <link>https://spjain.github.io/project/robominton/</link>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/robominton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

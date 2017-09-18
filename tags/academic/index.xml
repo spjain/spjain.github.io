@@ -6,9 +6,45 @@
     <description>Recent content in Content tagged as &#39;Academic&#39; on Shubham Jain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; Shubham Jain</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lane Detection and Localisation</title>
+      <link>https://spjain.github.io/project/vision-methodologies/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/vision-methodologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Description</title>
+      <link>https://spjain.github.io/project/video-description/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/video-description/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedestrian Simulation and Tracking</title>
+      <link>https://spjain.github.io/project/pedestrian-simulation/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/pedestrian-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of Efficient Kernel Methods</title>
+      <link>https://spjain.github.io/project/kernel-methods/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/project/kernel-methods/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>

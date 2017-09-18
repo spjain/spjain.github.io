@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Shubham Jain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; Shubham Jain</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
@@ -21,24 +21,6 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://spjain.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://spjain.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://spjain.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://spjain.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>https://spjain.github.io/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
@@ -48,11 +30,29 @@
     </item>
     
     <item>
+      <title>Internship</title>
+      <link>https://spjain.github.io/tags/internship/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jekyll</title>
       <link>https://spjain.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://spjain.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robocon</title>
+      <link>https://spjain.github.io/tags/robocon/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://spjain.github.io/tags/robocon/</guid>
       <description></description>
     </item>
     
