@@ -8,47 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; Shubham Jain</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://spjain.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://spjain.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://spjain.github.io/home/about/</guid>
-      <description>Biography I am a Second Year Graduate Student pursuing Masters in Robotics Engineering at Worcester Polytechnic Institute, Massachusetts. I completed my B.Tech from the Indian Institute of Technology, Kanpur with a minor in Artificial Intelligence. My research interests lie broadly in the fields of Robotics and Computer Vision for solving real world problems.
-I am currently working as a Research Assistant under Prof. Emmanuel Agu and in collaboration with UMass Memorial Medical Centre, Worcester for developing a lower extremity wound diagnostics app (Smartwands) that can provide an automatic decision support system for patients.</description>
-    </item>
-    
-    <item>
-      <title>Projects and Internships</title>
-      <link>https://spjain.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://spjain.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relevant Courses</title>
-      <link>https://spjain.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://spjain.github.io/home/teaching/</guid>
-      <description>I had successfully completed the following courses during my undergraduate study at IIT Kanpur -
- Machine Learning Techniques Recent Advances in Computer Vision Image Processing Data Structures and Algorithms Probabilistic Mobile Robotics Robot Motion Planning Fundamentals of Programming  I am currently taking the following courses at WPI during my graduate studies - Deep Learning for Advanced Robotic Perception, Artficial Intelligence, Foundations of Robotics</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://spjain.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://spjain.github.io/home/contact/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
